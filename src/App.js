@@ -25,6 +25,7 @@ const styles ={
 
 	mid:{
 		margin: '25px',
+		fontSize: '125%',
 		
 	}
 }

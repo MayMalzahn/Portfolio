@@ -24,7 +24,11 @@ body{
 
 header{
 	background-color: rgb(0, 0, 0);
-	background-image: url("./img/football.png");
+	background-image: url("./img/mosaic.png");
+}
+
+p{
+	font-size: 110%;
 }
 
 *:link,

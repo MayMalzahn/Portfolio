@@ -52,8 +52,8 @@ const styles ={
 		maxHeight: '75px',
 	},
 		proImg:{
-		maxWidth: '100px',
-		maxHeight: '100px',
+		maxWidth: '200px',
+		maxHeight: '200px',
 		borderRadius: '50%',
 		border: 'solid thick rgb(28, 0, 0)'
 	},

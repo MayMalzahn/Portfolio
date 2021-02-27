@@ -14,6 +14,10 @@ class why extends React.Component{
 			<h3 style={styles.subTitle}>A Website, the place to grow</h3>
 			<p>When you're looking for a plumber because your pipes suddenly burst during a winter storm, where do you go? Google, of course. Or Bing, or whatever your preferred search engine is. And this is where a properly created website shines. They allow you to show up in a potential clients search, and draw them in with a professionally presented showcase of what you can do for them. Their weakness against social media is that sites do not feel personal, and can make it difficult for a current client to feel continuously connected to your business.</p>
 			<p>Most frequently, businesses will use a combination of social media and a dedicated site to keep in touch and draw in clients. Hopefully after reading this, you have a better idea of what path is right for your needs. If that path leads you to a website, please feel free to contact me so we can discuss how we can work together to formulate your online presence!</p>
+			<div>
+			<h2 style={styles.title}>Contact Me</h2>
+			<p>Email: jayne.malzahn@gmail.com</p>
+			</div>
 			</div>
 
 		)

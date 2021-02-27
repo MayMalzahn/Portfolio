@@ -14,7 +14,7 @@ class projects extends React.Component{
 			<h2 style={styles.title}>Projects I have worked on</h2>
 			<p>Just a taste of what I can do for you!</p>
 			<h3 style={styles.subTitle}>Azeroth Heroes</h3>
-			<p>This was a fun site I created early in my education for World of Warcaft. It allows people to import character data, and build teams of characters.</p>
+			<p>This was a fun site I created early in my education for World of Warcaft. It allows people to import character data, build and save teams of characters, and look up more detailed character data.</p>
 			<img src= {AH1} style={styles.img} alt= 'Azeroth Heroes Home Page'></img>
 			<img src= {AH2} style={styles.img} alt= 'Azeroth Heroes Character Search'></img>
 			<img src= {AH3} style={styles.img} alt= 'Azeroth Heroes Character Search with Multiple Characters'></img>
@@ -51,5 +51,6 @@ const styles ={
 		color: 'rgb(255,102,102)',
 		fontFamily: 'Charm',
 		paddingTop: '25px',
+		fontSize: '250%',
 	}
 }
