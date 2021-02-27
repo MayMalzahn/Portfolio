@@ -4,13 +4,14 @@ import Footer from './components/footer';
 import Header from './components/header';
 import Routes from './components/routes';
 import { BrowserRouter as Router } from "react-router-dom";
+import sparks from './img/sparks.png'
 
 function App() {
   return (
- 		  <div>
+ 		  <div class='body'>
 	  <Router>
 		<Header />
-	  	<div>
+	  	<div style={styles.mid}>
 		 <Routes />
 	  </div>
 		<Footer />
@@ -20,3 +21,10 @@ function App() {
 }
 
 export default App;
+const styles ={
+
+	mid:{
+		margin: '25px',
+		
+	}
+}
